@@ -1,4 +1,4 @@
-# Blog Windows Form Application `Entity Framework CRUD`
+## Blog Windows Form Application `Entity Framework CRUD`
 
     * Build a Blog Windows form application with register and login forms.
     * Make the user add his news and there's an option to view all news by its catalog.
